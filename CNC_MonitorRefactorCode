@@ -1,0 +1,3 @@
+// Designing the existing class CNC monitoring from https://github.com/venu-shastri/technical-debt-knowledge/blob/main/CaseStudy.md
+
+// give the code in chatgpt and give prompt "Refactor the code to distribute the responsibilities with SRP principle"
